@@ -1,27 +1,25 @@
 # FormValidation
 
+This Repo is designed to inform the team on form validation in Angular while using bootstrap to style css for the forms.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng s` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Angular Form Documentation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[Reactive Forms](https://angular.io/guide/reactive-forms#creating-nested-form-groups) <br>
+[FormControl](https://angular.io/api/forms/FormControl) <br>
+[FormGroup](https://angular.io/api/forms/FormGroup) <br>
+[FormBuilder](https://angular.io/api/forms/FormBuilder) <br>
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Dependencies 
 
-## Running unit tests
+These dependencies are included in the ELM Styleguide pack but are included here for documentation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[Bootstrap: 5.0.0-beta2](https://getbootstrap.com/docs/5.0/getting-started/download/#npm) <br>
+[ng-Bootstrap: 9.0.2](https://ng-bootstrap.github.io/#/home) <br>
+[ng-bootstrap-form-validation: 9.0.1](https://www.npmjs.com/package/ng-bootstrap-form-validation)
